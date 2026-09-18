@@ -1,0 +1,4 @@
+* 77ef63b Aggiunge nome e classe al README
+* fa40f9a Annota la differenza tra il primo e il secondo git status
+* 7cdfc42 Aggiunge il registro dei prestiti iniziale
+* c7dfab7 Initial commit
